@@ -11,7 +11,7 @@
 #
 # Then run the container using:
 #
-# docker run -i --rm -p 8080:8080 quarkus/revizo-api-jvm
+# docker run -i --rm -p 7788:7788 quarkus/revizo-api-jvm
 #
 ###
 FROM fabric8/java-alpine-openjdk8-jre
